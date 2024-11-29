@@ -1,0 +1,13 @@
+[
+    {
+      "run": "15076829-2",
+      "nombre": "Diego",
+      "apellido": "Soto",
+      "direccion": "Loma Verde 2765",
+      "fono": 952518076,
+      "correo":"diegosoto2198@gmail.com",
+      "montoCredito": 450000,
+      "deuda":15000,
+      "tipo": 1
+    }
+]
